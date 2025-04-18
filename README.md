@@ -1,2 +1,2 @@
 # differ
-Inspired by the diff command in bash. 
+Inspired by diff. 
